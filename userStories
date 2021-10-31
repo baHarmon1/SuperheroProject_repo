@@ -21,7 +21,8 @@ ability, secondary superhero ability, and catchphrase of an existing superhero.
 home page.
 
 - Tip: the best practice approach to managing static files (image, JavaScript files, etc.) is to do this:
-  https://docs.djangoproject.com/en/3.2/howto/static-files/
+  https://docs.djangoproject.com/en/3.2/howto/static-files/ - css as well
   Bonus
   (5 points) As a developer, I want to utilize Bootstrap via Bootstrap Content Delivery Network (CDN) to
   stylize my templates.
+  first thing to do is find it
